@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Post Project</string>
+    <string name="Post_project">Post Project</string>
+    <string name="title_hint">Technology</string>
+    <string name="Description">Title,Description,Bio,Budget etc</string>
+    <string name="Post">Post</string>
+    <string name="name">Your name...</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="newacc">Need a new account</string>
+</resources>

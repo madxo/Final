@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66774922041",
+    "firebase_url": "https://final-a39e7.firebaseio.com",
+    "project_id": "final-a39e7",
+    "storage_bucket": "final-a39e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66774922041:android:29b0e0235aea4b93",
+        "android_client_info": {
+          "package_name": "com.example.mohit.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66774922041-vumk5stu3nartca6mkun192g0svr1eo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoapqkI4wNSpvJMhSqXyuaowuiNCdCWoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
